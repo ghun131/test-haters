@@ -1,0 +1,1 @@
+{"indexes":[{"v":{"$numberInt":"2"},"key":{"_id":{"$numberInt":"1"}},"name":"_id_"},{"v":{"$numberInt":"2"},"key":{"resubmissionTimes":{"$numberInt":"1"}},"name":"resubmissionTimes_1","background":true,"unique":true}],"uuid":"80c7d5b587604542958d848d2160f07b","collectionName":"coding_questions","type":"collection"}
